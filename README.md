@@ -2,10 +2,13 @@
 
 ### About me
 Hello, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
+
+### Skills
+
 - Software Developer and Formtend Developer
 - I'm currently learnig MERN stack
 
-#### Lenguages and Technologies
+### Lenguages and Technologies
 - React
 - SQL
 - PHP
