@@ -17,7 +17,9 @@ Hello, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 - VSCode
 
 ### Extras 
-You can reach me by my linked in account ![LINK](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/) 
+You can contact me on my ![linkedin](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/) account
+
+
 
 
 <!--
