@@ -1,7 +1,7 @@
-## Hi there! I'm Mario! 👋
+## Hello there! 👋
 
 ### About me
-Hello, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
+Hi, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 
 ### Skills
 
