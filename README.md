@@ -9,12 +9,14 @@ Hi, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 - I'm currently learnig MERN stack
 
 ### Lenguages and Technologies
-- React
-- SQL
-- PHP
-- Python
-- Git
-- VSCode
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
+![React](https://img.shields.io/badge/-React-05122A?&logo=React)
+
+![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### You can contact me on
 * Linkedin: ![MarioMog](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/)
@@ -36,4 +38,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)
 -->
