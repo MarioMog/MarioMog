@@ -19,7 +19,7 @@ Hi, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### You can contact me on
-* Linkedin: ![MarioMog](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/)
+* Linkedin: [MarioMog](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/)
 * ...
 
 
