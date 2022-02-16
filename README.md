@@ -20,7 +20,7 @@ Hi, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 
 ### You can contact me on
 * Linkedin: [MarioMog](https://www.linkedin.com/in/mario-alejandro-morales-guerrero-024459156/)
-* Twitter: [MarioMog](https://twitter.com/MarioMog_)
+* Twitter: [Mario Morales](https://twitter.com/MarioMog_)
 * ...
 
 
