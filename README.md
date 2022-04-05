@@ -6,7 +6,7 @@ Hi, my full name is Mario Alejandro Morales Guerrero aka MarioMog on Internet
 ### Skills
 
 - Software Developer and Frontend Developer
-- I'm currently learnig MERN stack
+- I'm currently learning MERN stack
 
 ### Lenguages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
